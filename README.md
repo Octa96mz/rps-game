@@ -37,7 +37,7 @@ CPU eligió: piedra
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [simple-chess-board](https://github.com/Octa96mz/simple-chess-board)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [terminal-rps-game](https://github.com/Octa96mz/rps-game)
 
 # License
 
